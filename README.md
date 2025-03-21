@@ -56,6 +56,7 @@ It provides **fast, reliable, and headless execution** while supporting modern w
 git clone https://github.com/sarah131/playwright-todo-app.git
 cd playwright-todo-app
 ```
+### 🔹 **2. Follow the documentation present in the repository itself**  
 
 ## Do follow for more and Refer 
 For projects : [Github](https://github.com/sarah131/)
